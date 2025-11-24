@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\bin\Debug\net8.0\Delegat.exe
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\bin\Debug\net8.0\Delegat.deps.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\bin\Debug\net8.0\Delegat.runtimeconfig.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\bin\Debug\net8.0\Delegat.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\bin\Debug\net8.0\Delegat.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\Delegat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\Delegat.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\Delegat.AssemblyInfo.cs
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\Delegat.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\Delegat.sourcelink.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\Delegat.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\refint\Delegat.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\Delegat.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\Delegat.genruntimeconfig.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Delegat\obj\Debug\net8.0\ref\Delegat.dll

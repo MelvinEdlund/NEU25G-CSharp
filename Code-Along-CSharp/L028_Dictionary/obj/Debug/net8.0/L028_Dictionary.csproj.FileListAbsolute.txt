@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\bin\Debug\net8.0\L028_Dictionary.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\bin\Debug\net8.0\L028_Dictionary.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\bin\Debug\net8.0\L028_Dictionary.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\bin\Debug\net8.0\L028_Dictionary.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\bin\Debug\net8.0\L028_Dictionary.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\L028_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\L028_Dictionary.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\L028_Dictionary.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\L028_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\L028_Dictionary.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\L028_Dictionary.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\refint\L028_Dictionary.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\L028_Dictionary.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\L028_Dictionary.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L028_Dictionary\obj\Debug\net8.0\ref\L028_Dictionary.dll

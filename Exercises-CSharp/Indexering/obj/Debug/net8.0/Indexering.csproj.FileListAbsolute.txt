@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\bin\Debug\net8.0\Indexering.exe
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\bin\Debug\net8.0\Indexering.deps.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\bin\Debug\net8.0\Indexering.runtimeconfig.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\bin\Debug\net8.0\Indexering.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\bin\Debug\net8.0\Indexering.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\Indexering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\Indexering.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\Indexering.AssemblyInfo.cs
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\Indexering.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\Indexering.sourcelink.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\Indexering.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\refint\Indexering.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\Indexering.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\Indexering.genruntimeconfig.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Indexering\obj\Debug\net8.0\ref\Indexering.dll

@@ -1,0 +1,109 @@
+﻿<Window x:Class="L044_Controls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:L044_Controls"
+        mc:Ignorable="d"
+        d:Height="400" d:Width="400"
+        FontSize="20"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <WrapPanel
+            Orientation="Vertical"
+        >
+            
+            <Label
+                x:Name="label"
+               Content="Todo List"
+                Margin="10 10 0 0"
+            />
+            
+            <TextBox 
+                x:Name="textBox"
+                Text="Melvin"
+                Margin="10 10 0 0"
+                TextChanged="textBox_TextChanged"
+            />
+
+            <TextBox 
+                x:Name="multilineTextBox"
+                AcceptsReturn="True" 
+                TextWrapping="Wrap"
+                Width="200"
+                VerticalScrollBarVisibility="Auto"
+                HorizontalScrollBarVisibility="Visible"
+                Margin="10 10 0 0" 
+                Height="200"
+                IsEnabled="True"
+            />
+
+            <Button
+                x:Name="copyButton"
+                Content="Add text!"
+                Margin="10 10 0 0"
+                Click="button_Click"
+                IsEnabled="True"
+            />
+
+            <CheckBox 
+                x:Name="checkBox"
+                Margin="10 10 0 0"
+                Content="Hide Button"
+                IsChecked="False"
+                Click="checkBox_Click"
+            />
+            <Label
+                 Content="Copy mode:"
+                 Margin="10 10 0 0"
+             /> 
+
+            <RadioButton
+                x:Name="radioButtonOverwrite"
+                Content="Overwrite"
+                GroupName="CopyMode"
+                IsChecked="True"
+                Margin="10 10 0 0"
+            />
+            <RadioButton
+                x:Name="radioButtonAppend"
+                Content="Append"
+                GroupName="CopyMode"
+                Margin="10 10 0 0"
+            />
+
+            <Label
+                Content="Is this app awesome?"
+                Margin="10 10 0 0"
+            />
+
+            <RadioButton
+                x:Name="radioButtonYes"
+                Content="Yes"
+                GroupName="YesNo"
+                Margin="10 10 0 0"
+            />
+            <RadioButton
+                x:Name="radioButtonNo"
+                Content="No"
+                GroupName="YesNo"
+                IsChecked="True"
+                Margin="10 10 0 0"
+            />
+
+            <ComboBox
+                x:Name="comboBox"
+                Margin="10 10 0 0"
+                SelectedIndex="1"
+                ToolTip="Select Your language."
+                SelectionChanged="comboBox_SelectionChanged"
+            >
+                <ComboBoxItem>English</ComboBoxItem>
+                <ComboBoxItem>Swedish</ComboBoxItem>
+                <ComboBoxItem>Spanish</ComboBoxItem>
+
+            </ComboBox>
+
+        </WrapPanel>
+    </Grid>
+</Window>

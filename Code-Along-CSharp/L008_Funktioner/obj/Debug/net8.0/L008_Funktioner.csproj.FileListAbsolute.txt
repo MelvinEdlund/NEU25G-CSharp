@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008_Funktioner.exe
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008_Funktioner.deps.json
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008_Funktioner.runtimeconfig.json
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008_Funktioner.dll
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008_Funktioner.pdb
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008_Funktioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008_Funktioner.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008_Funktioner.AssemblyInfo.cs
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008_Funktioner.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008_Funktioner.dll
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\refint\L008_Funktioner.dll
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008_Funktioner.pdb
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008_Funktioner.genruntimeconfig.cache
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\ref\L008_Funktioner.dll
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008_Funktioner.sourcelink.json

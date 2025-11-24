@@ -1,0 +1,14 @@
+C:\Users\medlu\source\repos\L001\L006_Array\bin\Debug\net8.0\L006_Array.exe
+C:\Users\medlu\source\repos\L001\L006_Array\bin\Debug\net8.0\L006_Array.deps.json
+C:\Users\medlu\source\repos\L001\L006_Array\bin\Debug\net8.0\L006_Array.runtimeconfig.json
+C:\Users\medlu\source\repos\L001\L006_Array\bin\Debug\net8.0\L006_Array.dll
+C:\Users\medlu\source\repos\L001\L006_Array\bin\Debug\net8.0\L006_Array.pdb
+C:\Users\medlu\source\repos\L001\L006_Array\obj\Debug\net8.0\L006_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\L001\L006_Array\obj\Debug\net8.0\L006_Array.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\L001\L006_Array\obj\Debug\net8.0\L006_Array.AssemblyInfo.cs
+C:\Users\medlu\source\repos\L001\L006_Array\obj\Debug\net8.0\L006_Array.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\L001\L006_Array\obj\Debug\net8.0\L006_Array.dll
+C:\Users\medlu\source\repos\L001\L006_Array\obj\Debug\net8.0\refint\L006_Array.dll
+C:\Users\medlu\source\repos\L001\L006_Array\obj\Debug\net8.0\L006_Array.pdb
+C:\Users\medlu\source\repos\L001\L006_Array\obj\Debug\net8.0\L006_Array.genruntimeconfig.cache
+C:\Users\medlu\source\repos\L001\L006_Array\obj\Debug\net8.0\ref\L006_Array.dll

@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\bin\Debug\net8.0\L020_Properties.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\bin\Debug\net8.0\L020_Properties.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\bin\Debug\net8.0\L020_Properties.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\bin\Debug\net8.0\L020_Properties.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\bin\Debug\net8.0\L020_Properties.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\L020_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\L020_Properties.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\L020_Properties.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\L020_Properties.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\L020_Properties.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\L020_Properties.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\refint\L020_Properties.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\L020_Properties.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\L020_Properties.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L020_Properties\obj\Debug\net8.0\ref\L020_Properties.dll

@@ -1,0 +1,5 @@
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Variabler_Loopar\obj\Debug\net8.0\Variabler_Loopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Variabler_Loopar\obj\Debug\net8.0\Variabler_Loopar.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Variabler_Loopar\obj\Debug\net8.0\Variabler_Loopar.AssemblyInfo.cs
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Variabler_Loopar\obj\Debug\net8.0\Variabler_Loopar.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Variabler_Loopar\obj\Debug\net8.0\Variabler_Loopar.sourcelink.json

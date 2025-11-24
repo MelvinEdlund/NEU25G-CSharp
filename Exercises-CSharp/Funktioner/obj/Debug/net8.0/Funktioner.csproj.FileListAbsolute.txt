@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\bin\Debug\net8.0\Funktioner.exe
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\bin\Debug\net8.0\Funktioner.deps.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\bin\Debug\net8.0\Funktioner.runtimeconfig.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\bin\Debug\net8.0\Funktioner.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\bin\Debug\net8.0\Funktioner.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\Funktioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\Funktioner.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\Funktioner.AssemblyInfo.cs
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\Funktioner.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\Funktioner.sourcelink.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\Funktioner.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\refint\Funktioner.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\Funktioner.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\Funktioner.genruntimeconfig.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Funktioner\obj\Debug\net8.0\ref\Funktioner.dll

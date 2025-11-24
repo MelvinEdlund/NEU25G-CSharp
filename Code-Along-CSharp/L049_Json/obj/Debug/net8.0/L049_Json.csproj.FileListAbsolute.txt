@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\bin\Debug\net8.0\L049_Json.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\bin\Debug\net8.0\L049_Json.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\bin\Debug\net8.0\L049_Json.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\bin\Debug\net8.0\L049_Json.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\bin\Debug\net8.0\L049_Json.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\L049_Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\L049_Json.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\L049_Json.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\L049_Json.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\L049_Json.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\L049_Json.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\refint\L049_Json.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\L049_Json.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\L049_Json.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L049_Json\obj\Debug\net8.0\ref\L049_Json.dll

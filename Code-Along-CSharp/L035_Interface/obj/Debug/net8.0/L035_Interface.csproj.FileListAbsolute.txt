@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\bin\Debug\net8.0\L035_Interface.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\bin\Debug\net8.0\L035_Interface.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\bin\Debug\net8.0\L035_Interface.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\bin\Debug\net8.0\L035_Interface.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\bin\Debug\net8.0\L035_Interface.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\L035_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\L035_Interface.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\L035_Interface.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\L035_Interface.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\L035_Interface.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\L035_Interface.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\refint\L035_Interface.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\L035_Interface.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\L035_Interface.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L035_Interface\obj\Debug\net8.0\ref\L035_Interface.dll

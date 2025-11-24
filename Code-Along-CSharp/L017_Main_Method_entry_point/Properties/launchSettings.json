@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "L017_Main_Method_entry_point": {
+      "commandName": "Project",
+      "commandLineArgs": "abc 123 test hello"
+    }
+  }
+}

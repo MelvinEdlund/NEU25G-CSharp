@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\bin\Debug\net8.0\L036_LINQ.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\bin\Debug\net8.0\L036_LINQ.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\bin\Debug\net8.0\L036_LINQ.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\bin\Debug\net8.0\L036_LINQ.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\bin\Debug\net8.0\L036_LINQ.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\L036_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\L036_LINQ.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\L036_LINQ.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\L036_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\L036_LINQ.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\L036_LINQ.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\refint\L036_LINQ.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\L036_LINQ.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\L036_LINQ.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L036_LINQ\obj\Debug\net8.0\ref\L036_LINQ.dll

@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\bin\Debug\net8.0\L019_Konstruktor.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\bin\Debug\net8.0\L019_Konstruktor.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\bin\Debug\net8.0\L019_Konstruktor.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\bin\Debug\net8.0\L019_Konstruktor.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\bin\Debug\net8.0\L019_Konstruktor.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\L019_Konstruktor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\L019_Konstruktor.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\L019_Konstruktor.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\L019_Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\L019_Konstruktor.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\L019_Konstruktor.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\refint\L019_Konstruktor.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\L019_Konstruktor.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\L019_Konstruktor.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L019_Konstruktor\obj\Debug\net8.0\ref\L019_Konstruktor.dll

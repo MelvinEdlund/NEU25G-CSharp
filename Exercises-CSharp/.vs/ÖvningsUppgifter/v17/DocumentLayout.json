@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\\u00D6vningsUppgifter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B6904-0F81-4D92-910A-6D42BE9BD47E}|WPF_Kontroller\\WPF_Kontroller.csproj|c:\\users\\medlu\\source\\repos\\\u00F6vningsuppgifter\\wpf_kontroller\\uppgift_6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D98B6904-0F81-4D92-910A-6D42BE9BD47E}|WPF_Kontroller\\WPF_Kontroller.csproj|solutionrelative:wpf_kontroller\\uppgift_6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B6904-0F81-4D92-910A-6D42BE9BD47E}|WPF_Kontroller\\WPF_Kontroller.csproj|c:\\users\\medlu\\source\\repos\\\u00F6vningsuppgifter\\wpf_kontroller\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B6904-0F81-4D92-910A-6D42BE9BD47E}|WPF_Kontroller\\WPF_Kontroller.csproj|solutionrelative:wpf_kontroller\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B6904-0F81-4D92-910A-6D42BE9BD47E}|WPF_Kontroller\\WPF_Kontroller.csproj|c:\\users\\medlu\\source\\repos\\\u00F6vningsuppgifter\\wpf_kontroller\\uppgift_6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B6904-0F81-4D92-910A-6D42BE9BD47E}|WPF_Kontroller\\WPF_Kontroller.csproj|solutionrelative:wpf_kontroller\\uppgift_6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B6904-0F81-4D92-910A-6D42BE9BD47E}|WPF_Kontroller\\WPF_Kontroller.csproj|c:\\users\\medlu\\source\\repos\\\u00F6vningsuppgifter\\wpf_kontroller\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D98B6904-0F81-4D92-910A-6D42BE9BD47E}|WPF_Kontroller\\WPF_Kontroller.csproj|solutionrelative:wpf_kontroller\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\\u00D6vningsUppgifter\\WPF_Kontroller\\Student.cs",
+              "RelativeDocumentMoniker": "WPF_Kontroller\\Student.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\\u00D6vningsUppgifter\\WPF_Kontroller\\Student.cs",
+              "RelativeToolTip": "WPF_Kontroller\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:00:01.267Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Uppgift_6.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\\u00D6vningsUppgifter\\WPF_Kontroller\\Uppgift_6.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Kontroller\\Uppgift_6.xaml.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\\u00D6vningsUppgifter\\WPF_Kontroller\\Uppgift_6.xaml.cs",
+              "RelativeToolTip": "WPF_Kontroller\\Uppgift_6.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:39:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\\u00D6vningsUppgifter\\WPF_Kontroller\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_Kontroller\\App.xaml",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\\u00D6vningsUppgifter\\WPF_Kontroller\\App.xaml",
+              "RelativeToolTip": "WPF_Kontroller\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T11:16:04.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Uppgift_6.xaml",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\\u00D6vningsUppgifter\\WPF_Kontroller\\Uppgift_6.xaml",
+              "RelativeDocumentMoniker": "WPF_Kontroller\\Uppgift_6.xaml",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\\u00D6vningsUppgifter\\WPF_Kontroller\\Uppgift_6.xaml",
+              "RelativeToolTip": "WPF_Kontroller\\Uppgift_6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T12:26:24.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

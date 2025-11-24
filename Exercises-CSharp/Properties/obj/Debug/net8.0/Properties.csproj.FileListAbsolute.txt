@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\bin\Debug\net8.0\Properties.exe
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\bin\Debug\net8.0\Properties.deps.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\bin\Debug\net8.0\Properties.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\bin\Debug\net8.0\Properties.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\Properties.sourcelink.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\Properties.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\refint\Properties.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\Properties.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Properties\obj\Debug\net8.0\ref\Properties.dll

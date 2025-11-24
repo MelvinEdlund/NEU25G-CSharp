@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\bin\Debug\net8.0\L022_Struct_Enum.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\bin\Debug\net8.0\L022_Struct_Enum.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\bin\Debug\net8.0\L022_Struct_Enum.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\bin\Debug\net8.0\L022_Struct_Enum.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\bin\Debug\net8.0\L022_Struct_Enum.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\L022_Struct_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\L022_Struct_Enum.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\L022_Struct_Enum.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\L022_Struct_Enum.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\L022_Struct_Enum.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\L022_Struct_Enum.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\refint\L022_Struct_Enum.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\L022_Struct_Enum.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\L022_Struct_Enum.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L022_Struct_Enum\obj\Debug\net8.0\ref\L022_Struct_Enum.dll

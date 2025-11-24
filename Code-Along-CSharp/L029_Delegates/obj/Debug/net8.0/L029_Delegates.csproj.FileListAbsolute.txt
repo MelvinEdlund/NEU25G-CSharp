@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\bin\Debug\net8.0\L029_Delegates.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\bin\Debug\net8.0\L029_Delegates.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\bin\Debug\net8.0\L029_Delegates.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\bin\Debug\net8.0\L029_Delegates.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\bin\Debug\net8.0\L029_Delegates.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\L029_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\L029_Delegates.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\L029_Delegates.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\L029_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\L029_Delegates.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\L029_Delegates.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\refint\L029_Delegates.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\L029_Delegates.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\L029_Delegates.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L029_Delegates\obj\Debug\net8.0\ref\L029_Delegates.dll

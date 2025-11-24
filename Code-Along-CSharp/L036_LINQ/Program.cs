@@ -1,0 +1,141 @@
+﻿
+
+using System.Net.Security;
+
+var objectList = new List<object>();
+
+objectList.Add("Hello world!");
+objectList.Add("This is a text");
+objectList.Add(5.3);
+objectList.Add("Hej på er");
+objectList.Add(true);
+objectList.Add(94);
+objectList.Add('a');
+objectList.Add("Bye!");
+
+var stringList = new List<string>();
+
+foreach (var o in objectList)
+{
+    if (o is string s) stringList.Add(s);
+}
+
+Console.WriteLine("objectList:");
+Console.WriteLine(string.Join('\n', objectList));
+
+var stringList2 = objectList.OfType<string>().ToList();
+
+Console.WriteLine("\n*** OfType - Filters the elements based on a specified type - E.g. OfType<string> ***");
+Console.WriteLine("\nstringList:");
+Console.WriteLine(string.Join('\n', stringList));
+
+Console.WriteLine("\n*** Any, All ***\n");
+
+Console.WriteLine($"stringList.Any() -> {stringList.Any()}");
+Console.WriteLine($"stringList.Any(s => s.Length == 4) -> {stringList.Any(s => s.Length == 4)}");
+Console.WriteLine($"stringList.All(s => s.Length >= 4) -> {stringList.All(s => s.Length >= 4)}");
+Console.WriteLine($"stringList.Any(s => s == \"Hej\")) -> {stringList.Any(s => s == "Hej")}");
+Console.WriteLine($"stringList.Any(s => s.Contains(\"ye)\")) -> {stringList.Any(s => s.Contains("ye)"))}");
+Console.WriteLine($"stringList.Any(s => s.ToLower() == \"hej\")) -> {stringList.Any(s => s.ToLower() == "hej")}");
+Console.WriteLine($"stringList.Any(s => s.Split(' ').Length == 3) -> {stringList.Any(s => s.Split(' ').Length == 3)}");
+Console.WriteLine($"stringList.All(s => s.StartsWith('B')) -> {stringList.All(s => s.StartsWith('B'))}");
+
+// List<Enemy> enemies ? levelElement.OfType<Enemy>().ToList();
+// if (levelElement.OfType<Enemy>().Any(e => e.HP < 5)...
+
+
+Console.WriteLine("\n*** Where ***\n");
+
+var filteredStrings = stringList.Where(s => s.Length <= 12).ToList();
+
+Console.WriteLine("stringList.Where(s => s.Length <= 12) ->");
+Console.WriteLine(string.Join('\n', filteredStrings));
+
+//foreach (var enemy in enemies.Where(e => e.HP < 5))
+//{
+//    Console.WriteLine(enemy.Name);
+//}
+
+Console.WriteLine();
+
+Console.WriteLine("\n*** Select ***\n");
+
+var people = new[]
+{
+    new { FirstName = "Anders", LastName = "Svensoson", Age = 34 },
+    new { FirstName = "Adam", LastName = "Johansson", Age = 24 },
+    new { FirstName = "Maria", LastName = "Andersson", Age = 42 },
+    new { FirstName = "Karl", LastName = "Karlsson", Age = 19 },
+    new { FirstName = "Tomas", LastName = "Johansson", Age = 21 },
+    new { FirstName = "Sven", LastName = "Palm", Age = 21 },
+    new { FirstName = "Fia", LastName = "Kvist", Age = 28 },
+    new { FirstName = "Camilla", LastName = "Alm", Age = 37 }
+}.ToList();
+
+var people2 = people
+    .Where(p => p.Age < 30)
+    .Select(p => new { 
+        Fullname = $"{p.FirstName} {p.LastName}", 
+        Age = p.Age, 
+        FirstNameLength = p.FirstName.Length 
+    })
+    .Where(p => p.FirstNameLength == 4)
+    .ToList();
+
+Console.WriteLine("\n *** OrderBy ***\n");
+
+Console.WriteLine(" people.OrderBy(p => p.Age) ->");
+foreach (var p in people.OrderBy(p => p.Age))
+{
+    Console.WriteLine(p);
+}
+
+Console.WriteLine("\npeople.OrderByDescending(p => p.FirstName) ->");
+foreach (var p in people.OrderByDescending(p => p.FirstName))
+{
+    Console.WriteLine(p);
+}
+
+
+var querySyntax = (from p in people where p.Age > 30 select p.Age);
+
+var methodSyntax = people.Where(p => p.Age > 30).Select(p => p.Age).ToList();
+
+Console.WriteLine();
+
+foreach (var age in querySyntax)
+{
+    Console.WriteLine(age);
+}
+
+Console.WriteLine();
+
+people.Add(new { FirstName = "Stefan", LastName = "Johansson", Age = 38 });
+
+foreach (var age in querySyntax)
+{
+    Console.WriteLine(age);
+}
+
+var firstpersonWithAge21 = people.FirstOrDefault(p => p.Age == 21);
+var lastpersonWithAge21 = people.LastOrDefault(p => p.Age == 21);
+
+Console.WriteLine();
+
+people.ForEach(p =>
+{
+    Console.WriteLine(p.FirstName);
+    Console.WriteLine(p.LastName);
+    Console.WriteLine();
+});
+//people.Remove(personWithCurrentAge);
+
+int numberOfPeopleWithAge21 = people.Count(p => p.Age == 21);
+
+Console.WriteLine();
+
+
+
+
+
+

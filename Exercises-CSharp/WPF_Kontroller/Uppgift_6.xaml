@@ -1,0 +1,36 @@
+﻿<Window x:Class="WPF_Kontroller.Uppgift_6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Uppgift_6" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Vänster: lista -->
+        <StackPanel Grid.Column="0">
+            <Label Width="300">Students</Label>
+            <ListBox x:Name="StudentList" Height="350" Width="300"
+                     DisplayMemberPath="FullName"/>
+        </StackPanel> 
+
+        <!-- Höger: formulär -->
+        <StackPanel Grid.Column="1"
+                    VerticalAlignment="Center"
+                    Orientation="Vertical"
+                    Width="300">
+            <Label>First name:</Label>
+            <TextBox Margin="0,0,0,10"
+                     Text="{Binding ElementName=StudentList, Path=SelectedItem.FirstName, UpdateSourceTrigger=PropertyChanged}"/>
+
+            <Label>Last name:</Label>
+            <TextBox Margin="0,0,0,10"
+                     Text="{Binding ElementName=StudentList, Path=SelectedItem.LastName, UpdateSourceTrigger=PropertyChanged}"/>
+
+            <Label>Email:</Label>
+            <TextBox Margin="0,0,0,20"
+                     Text="{Binding ElementName=StudentList, Path=SelectedItem.Email, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+    </Grid>
+</Window>

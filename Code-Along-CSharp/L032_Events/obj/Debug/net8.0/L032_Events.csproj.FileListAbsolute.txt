@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\bin\Debug\net8.0\L032_Events.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\bin\Debug\net8.0\L032_Events.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\bin\Debug\net8.0\L032_Events.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\bin\Debug\net8.0\L032_Events.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\bin\Debug\net8.0\L032_Events.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\L032_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\L032_Events.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\L032_Events.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\L032_Events.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\L032_Events.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\L032_Events.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\refint\L032_Events.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\L032_Events.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\L032_Events.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L032_Events\obj\Debug\net8.0\ref\L032_Events.dll

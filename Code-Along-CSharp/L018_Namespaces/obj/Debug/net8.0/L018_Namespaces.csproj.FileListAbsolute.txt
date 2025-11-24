@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\bin\Debug\net8.0\L018_Namespaces.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\bin\Debug\net8.0\L018_Namespaces.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\bin\Debug\net8.0\L018_Namespaces.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\bin\Debug\net8.0\L018_Namespaces.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\bin\Debug\net8.0\L018_Namespaces.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\L018_Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\L018_Namespaces.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\L018_Namespaces.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\L018_Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\L018_Namespaces.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\L018_Namespaces.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\refint\L018_Namespaces.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\L018_Namespaces.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\L018_Namespaces.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L018_Namespaces\obj\Debug\net8.0\ref\L018_Namespaces.dll

@@ -1,0 +1,5 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L050_SOLID\obj\Debug\net8.0\L050_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L050_SOLID\obj\Debug\net8.0\L050_SOLID.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L050_SOLID\obj\Debug\net8.0\L050_SOLID.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L050_SOLID\obj\Debug\net8.0\L050_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L050_SOLID\obj\Debug\net8.0\L050_SOLID.sourcelink.json

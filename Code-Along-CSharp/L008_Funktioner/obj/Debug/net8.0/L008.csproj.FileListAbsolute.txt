@@ -1,0 +1,14 @@
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008.exe
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008.deps.json
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008.runtimeconfig.json
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008.dll
+C:\Users\medlu\source\repos\L001\L008\bin\Debug\net8.0\L008.pdb
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008.AssemblyInfo.cs
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008.dll
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\refint\L008.dll
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008.pdb
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\L008.genruntimeconfig.cache
+C:\Users\medlu\source\repos\L001\L008\obj\Debug\net8.0\ref\L008.dll

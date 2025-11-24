@@ -1,0 +1,12 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\bin\Debug\net8.0\L031_Library.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\bin\Debug\net8.0\L031_Library.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\bin\Debug\net8.0\L031_Library.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\obj\Debug\net8.0\L031_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\obj\Debug\net8.0\L031_Library.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\obj\Debug\net8.0\L031_Library.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\obj\Debug\net8.0\L031_Library.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\obj\Debug\net8.0\L031_Library.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\obj\Debug\net8.0\L031_Library.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\obj\Debug\net8.0\refint\L031_Library.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\obj\Debug\net8.0\L031_Library.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L031_Library\obj\Debug\net8.0\ref\L031_Library.dll

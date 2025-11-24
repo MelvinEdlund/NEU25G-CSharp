@@ -1,0 +1,14 @@
+C:\Users\medlu\source\repos\L001\L003_Operatorer\bin\Debug\net8.0\L003_Operatorer.exe
+C:\Users\medlu\source\repos\L001\L003_Operatorer\bin\Debug\net8.0\L003_Operatorer.deps.json
+C:\Users\medlu\source\repos\L001\L003_Operatorer\bin\Debug\net8.0\L003_Operatorer.runtimeconfig.json
+C:\Users\medlu\source\repos\L001\L003_Operatorer\bin\Debug\net8.0\L003_Operatorer.dll
+C:\Users\medlu\source\repos\L001\L003_Operatorer\bin\Debug\net8.0\L003_Operatorer.pdb
+C:\Users\medlu\source\repos\L001\L003_Operatorer\obj\Debug\net8.0\L003_Operatorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\L001\L003_Operatorer\obj\Debug\net8.0\L003_Operatorer.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\L001\L003_Operatorer\obj\Debug\net8.0\L003_Operatorer.AssemblyInfo.cs
+C:\Users\medlu\source\repos\L001\L003_Operatorer\obj\Debug\net8.0\L003_Operatorer.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\L001\L003_Operatorer\obj\Debug\net8.0\L003_Operatorer.dll
+C:\Users\medlu\source\repos\L001\L003_Operatorer\obj\Debug\net8.0\refint\L003_Operatorer.dll
+C:\Users\medlu\source\repos\L001\L003_Operatorer\obj\Debug\net8.0\L003_Operatorer.pdb
+C:\Users\medlu\source\repos\L001\L003_Operatorer\obj\Debug\net8.0\L003_Operatorer.genruntimeconfig.cache
+C:\Users\medlu\source\repos\L001\L003_Operatorer\obj\Debug\net8.0\ref\L003_Operatorer.dll

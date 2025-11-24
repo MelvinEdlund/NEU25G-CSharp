@@ -1,0 +1,28 @@
+﻿<Window x:Class="L047_Dialogs_And_Windows.AddUserDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:L047_Dialogs_And_Windows"
+        mc:Ignorable="d"
+        FontSize="24"
+        ResizeMode="NoResize"
+        Title="Add new user" Height="270" Width="250">
+    
+    <StackPanel Orientation="Vertical">
+        
+        <Label Margin="10 0" Content="First name:"/>
+        <TextBox x:Name="firstNameTextBox" Margin="10 0"/>
+        
+        <Label Margin="10 0" Content="Last name:"/>
+        <TextBox x:Name="lastNameTextBox" Margin="10 0"/>
+        
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+          
+            <Button Margin="10 20" Content="Cancel" Click="CancelButton_Click"/>
+            <Button Margin="10 20" Content="Add User" Click="AddUserButton_Click"/>
+            
+        </StackPanel>
+        
+    </StackPanel>
+</Window>

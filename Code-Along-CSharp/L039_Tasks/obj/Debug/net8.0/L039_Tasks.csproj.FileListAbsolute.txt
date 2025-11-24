@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\bin\Debug\net8.0\L039_Tasks.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\bin\Debug\net8.0\L039_Tasks.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\bin\Debug\net8.0\L039_Tasks.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\bin\Debug\net8.0\L039_Tasks.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\bin\Debug\net8.0\L039_Tasks.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\L039_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\L039_Tasks.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\L039_Tasks.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\L039_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\L039_Tasks.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\L039_Tasks.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\refint\L039_Tasks.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\L039_Tasks.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\L039_Tasks.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L039_Tasks\obj\Debug\net8.0\ref\L039_Tasks.dll

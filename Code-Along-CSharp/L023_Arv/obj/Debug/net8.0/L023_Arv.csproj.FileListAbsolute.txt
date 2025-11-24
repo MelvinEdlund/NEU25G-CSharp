@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\bin\Debug\net8.0\L023_Arv.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\bin\Debug\net8.0\L023_Arv.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\bin\Debug\net8.0\L023_Arv.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\bin\Debug\net8.0\L023_Arv.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\bin\Debug\net8.0\L023_Arv.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\L023_Arv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\L023_Arv.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\L023_Arv.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\L023_Arv.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\L023_Arv.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\L023_Arv.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\refint\L023_Arv.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\L023_Arv.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\L023_Arv.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L023_Arv\obj\Debug\net8.0\ref\L023_Arv.dll

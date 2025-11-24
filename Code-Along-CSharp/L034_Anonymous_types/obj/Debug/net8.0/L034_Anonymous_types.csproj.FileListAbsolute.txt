@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\bin\Debug\net8.0\L034_Anonymous_types.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\bin\Debug\net8.0\L034_Anonymous_types.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\bin\Debug\net8.0\L034_Anonymous_types.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\bin\Debug\net8.0\L034_Anonymous_types.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\bin\Debug\net8.0\L034_Anonymous_types.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\L034_Anonymous_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\L034_Anonymous_types.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\L034_Anonymous_types.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\L034_Anonymous_types.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\L034_Anonymous_types.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\L034_Anonymous_types.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\refint\L034_Anonymous_types.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\L034_Anonymous_types.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\L034_Anonymous_types.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L034_Anonymous_types\obj\Debug\net8.0\ref\L034_Anonymous_types.dll

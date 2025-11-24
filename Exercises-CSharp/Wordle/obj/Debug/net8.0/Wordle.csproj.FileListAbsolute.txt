@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\bin\Debug\net8.0\Wordle.exe
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\bin\Debug\net8.0\Wordle.deps.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\bin\Debug\net8.0\Wordle.runtimeconfig.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\bin\Debug\net8.0\Wordle.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\bin\Debug\net8.0\Wordle.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\Wordle.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\Wordle.AssemblyInfo.cs
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\Wordle.sourcelink.json
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\Wordle.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\refint\Wordle.dll
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\Wordle.pdb
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\Wordle.genruntimeconfig.cache
+C:\Users\medlu\source\repos\ÖvningsUppgifter\Wordle\obj\Debug\net8.0\ref\Wordle.dll

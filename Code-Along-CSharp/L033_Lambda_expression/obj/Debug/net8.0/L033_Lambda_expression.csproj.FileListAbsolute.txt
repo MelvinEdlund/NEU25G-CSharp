@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\L033_Lambda_expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\L033_Lambda_expression.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\L033_Lambda_expression.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\L033_Lambda_expression.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\L033_Lambda_expression.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\bin\Debug\net8.0\L033_Lambda_expression.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\bin\Debug\net8.0\L033_Lambda_expression.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\bin\Debug\net8.0\L033_Lambda_expression.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\bin\Debug\net8.0\L033_Lambda_expression.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\bin\Debug\net8.0\L033_Lambda_expression.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\L033_Lambda_expression.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\refint\L033_Lambda_expression.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\L033_Lambda_expression.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\L033_Lambda_expression.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L033_Lambda_expression\obj\Debug\net8.0\ref\L033_Lambda_expression.dll

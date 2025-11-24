@@ -1,0 +1,4 @@
+C:\Users\medlu\source\repos\L001\L002_Variabler\obj\Debug\net8.0\L002_Variabler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\L001\L002_Variabler\obj\Debug\net8.0\L002_Variabler.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\L001\L002_Variabler\obj\Debug\net8.0\L002_Variabler.AssemblyInfo.cs
+C:\Users\medlu\source\repos\L001\L002_Variabler\obj\Debug\net8.0\L002_Variabler.csproj.CoreCompileInputs.cache

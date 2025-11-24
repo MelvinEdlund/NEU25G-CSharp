@@ -1,0 +1,14 @@
+C:\Users\medlu\source\repos\L001\L004\bin\Debug\net8.0\L004_if_satser.exe
+C:\Users\medlu\source\repos\L001\L004\bin\Debug\net8.0\L004_if_satser.deps.json
+C:\Users\medlu\source\repos\L001\L004\bin\Debug\net8.0\L004_if_satser.runtimeconfig.json
+C:\Users\medlu\source\repos\L001\L004\bin\Debug\net8.0\L004_if_satser.dll
+C:\Users\medlu\source\repos\L001\L004\bin\Debug\net8.0\L004_if_satser.pdb
+C:\Users\medlu\source\repos\L001\L004\obj\Debug\net8.0\L004_if_satser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\L001\L004\obj\Debug\net8.0\L004_if_satser.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\L001\L004\obj\Debug\net8.0\L004_if_satser.AssemblyInfo.cs
+C:\Users\medlu\source\repos\L001\L004\obj\Debug\net8.0\L004_if_satser.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\L001\L004\obj\Debug\net8.0\L004_if_satser.dll
+C:\Users\medlu\source\repos\L001\L004\obj\Debug\net8.0\refint\L004_if_satser.dll
+C:\Users\medlu\source\repos\L001\L004\obj\Debug\net8.0\L004_if_satser.pdb
+C:\Users\medlu\source\repos\L001\L004\obj\Debug\net8.0\L004_if_satser.genruntimeconfig.cache
+C:\Users\medlu\source\repos\L001\L004\obj\Debug\net8.0\ref\L004_if_satser.dll

@@ -1,0 +1,14 @@
+C:\Users\medlu\source\repos\L001\L007_Strängar\bin\Debug\net8.0\L007_Strängar.exe
+C:\Users\medlu\source\repos\L001\L007_Strängar\bin\Debug\net8.0\L007_Strängar.deps.json
+C:\Users\medlu\source\repos\L001\L007_Strängar\bin\Debug\net8.0\L007_Strängar.runtimeconfig.json
+C:\Users\medlu\source\repos\L001\L007_Strängar\bin\Debug\net8.0\L007_Strängar.dll
+C:\Users\medlu\source\repos\L001\L007_Strängar\bin\Debug\net8.0\L007_Strängar.pdb
+C:\Users\medlu\source\repos\L001\L007_Strängar\obj\Debug\net8.0\L007_Strängar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\L001\L007_Strängar\obj\Debug\net8.0\L007_Strängar.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\L001\L007_Strängar\obj\Debug\net8.0\L007_Strängar.AssemblyInfo.cs
+C:\Users\medlu\source\repos\L001\L007_Strängar\obj\Debug\net8.0\L007_Strängar.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\L001\L007_Strängar\obj\Debug\net8.0\L007_Strängar.dll
+C:\Users\medlu\source\repos\L001\L007_Strängar\obj\Debug\net8.0\refint\L007_Strängar.dll
+C:\Users\medlu\source\repos\L001\L007_Strängar\obj\Debug\net8.0\L007_Strängar.pdb
+C:\Users\medlu\source\repos\L001\L007_Strängar\obj\Debug\net8.0\L007_Strängar.genruntimeconfig.cache
+C:\Users\medlu\source\repos\L001\L007_Strängar\obj\Debug\net8.0\ref\L007_Strängar.dll

@@ -1,0 +1,14 @@
+C:\Users\medlu\source\repos\L001\L005_loopar\bin\Debug\net8.0\L005_loopar.exe
+C:\Users\medlu\source\repos\L001\L005_loopar\bin\Debug\net8.0\L005_loopar.deps.json
+C:\Users\medlu\source\repos\L001\L005_loopar\bin\Debug\net8.0\L005_loopar.runtimeconfig.json
+C:\Users\medlu\source\repos\L001\L005_loopar\bin\Debug\net8.0\L005_loopar.dll
+C:\Users\medlu\source\repos\L001\L005_loopar\bin\Debug\net8.0\L005_loopar.pdb
+C:\Users\medlu\source\repos\L001\L005_loopar\obj\Debug\net8.0\L005_loopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\L001\L005_loopar\obj\Debug\net8.0\L005_loopar.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\L001\L005_loopar\obj\Debug\net8.0\L005_loopar.AssemblyInfo.cs
+C:\Users\medlu\source\repos\L001\L005_loopar\obj\Debug\net8.0\L005_loopar.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\L001\L005_loopar\obj\Debug\net8.0\L005_loopar.dll
+C:\Users\medlu\source\repos\L001\L005_loopar\obj\Debug\net8.0\refint\L005_loopar.dll
+C:\Users\medlu\source\repos\L001\L005_loopar\obj\Debug\net8.0\L005_loopar.pdb
+C:\Users\medlu\source\repos\L001\L005_loopar\obj\Debug\net8.0\L005_loopar.genruntimeconfig.cache
+C:\Users\medlu\source\repos\L001\L005_loopar\obj\Debug\net8.0\ref\L005_loopar.dll

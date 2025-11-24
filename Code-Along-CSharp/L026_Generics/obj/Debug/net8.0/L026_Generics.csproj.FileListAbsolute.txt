@@ -1,0 +1,15 @@
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\bin\Debug\net8.0\L026_Generics.exe
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\bin\Debug\net8.0\L026_Generics.deps.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\bin\Debug\net8.0\L026_Generics.runtimeconfig.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\bin\Debug\net8.0\L026_Generics.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\bin\Debug\net8.0\L026_Generics.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\L026_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\L026_Generics.AssemblyInfoInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\L026_Generics.AssemblyInfo.cs
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\L026_Generics.csproj.CoreCompileInputs.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\L026_Generics.sourcelink.json
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\L026_Generics.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\refint\L026_Generics.dll
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\L026_Generics.pdb
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\L026_Generics.genruntimeconfig.cache
+C:\Users\medlu\source\repos\NEU25G_Code_Along\L026_Generics\obj\Debug\net8.0\ref\L026_Generics.dll
